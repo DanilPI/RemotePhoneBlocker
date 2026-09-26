@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wearwidget-provider
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    description="@string/widget_description"
+    icon="@drawable/ic_lock"
+    label="@string/widget_label"
+    preferredType="SMALL">
+    <container type="SMALL" previewImage="@drawable/ic_lock" />
+</wearwidget-provider>

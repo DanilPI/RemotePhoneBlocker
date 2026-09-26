@@ -1,0 +1,4 @@
+<resources>
+    <string name="widget_label">Phone Lock</string>
+    <string name="widget_description">Lock your phone from your watch</string>
+</resources>
